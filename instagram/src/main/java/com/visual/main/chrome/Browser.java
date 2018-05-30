@@ -231,6 +231,10 @@ public class Browser {
 	}
 	
 	
+	public void test() {
+		
+	}
+	
 	
 	
 	public int findLikes() {
